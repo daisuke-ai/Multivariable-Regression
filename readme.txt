@@ -19,6 +19,7 @@ This notebook contains various metrics to evaluate the performance of the traine
 
 Technologies
 Python
+Pandas
 NumPy
 Matplotlib
 Seaborn
